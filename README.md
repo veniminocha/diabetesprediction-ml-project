@@ -1,7 +1,13 @@
 # Diabetes Risk Predictor
 
 A Predictive Analytics mini-project that explores diabetes classification using the Pima Indians Diabetes dataset (768 records, 8 clinical input features).
+## 🚀 Live Demo
 
+Try the deployed dashboard:
+
+[**Open Diabetes Risk Predictor Dashboard**](https://diabetesprediction-ml-project-3ay5iteqwgdgskpg7zdak6.streamlit.app/)
+
+> Educational demonstration only — not a medical diagnosis.
 ## Objectives
 - Clean and explore clinical measurement data.
 - Compare Logistic Regression, Linear Discriminant Analysis (LDA), and Quadratic Discriminant Analysis (QDA).
